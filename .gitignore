@@ -1,0 +1,12 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+*.RDS
+*.o
+*.so
+data/*
+!data/README.md
+results/*
+!results/README.md
